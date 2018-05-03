@@ -26,6 +26,7 @@
     "merge": "^1.2.0",
     "object-merge": "^2.5.1",
     "pino": "^4.10.2",
+    "ssl-root-cas": "^1.2.5",
     "timeago.js": "^3.0.2",
     "tty-table": "^2.5.5"
   },
